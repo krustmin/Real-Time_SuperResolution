@@ -1,11 +1,20 @@
-# SR-Results
-This Results is not Lastest Version. These are images that were made as samples before.
+# Real-Time Super Resolution Sample Outputs #
+- These are sample result images of real-time Super Resolutions.
+- Code is not shared.
+- For real-time operation, you need a graphics card of at least RTX 2000 grade higher.
+- This code aims to convert FHD to 4K within 60 FPS.
 
-This result images are very large, so I reduced it to 25% using window painter and added watermark
+### Animations ###
+- FHD to 4K
 
-## 1. Animations
-####   A. Tom & Jerry
-<img width="480" alt="톰과제리" src="https://user-images.githubusercontent.com/24447550/100098189-085f2e80-2ea1-11eb-92c6-4c3011e9888f.png">
+### Movies ##
+- FHD to 4K
+
+### Extra - old grame broadcast ###
+- 360p to 720p
+
+
+
 
 ####   B. Mermaid Princess
 <img width="480" alt="인어공주" src="https://user-images.githubusercontent.com/24447550/100098229-1ad96800-2ea1-11eb-8d05-6b8ecd42de3c.png">
