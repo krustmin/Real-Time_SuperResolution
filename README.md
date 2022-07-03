@@ -3,6 +3,7 @@
 - Code is not shared.
 - For real-time operation, you need a graphics card of at least RTX 2000 grade higher.
 - This code aims to convert FHD to 4K within 60 FPS.
+- ToDO Aiming for operation in the RTX 1000 grade.
 
 ### Animations ###
 - Source : Blu-ray Disc
