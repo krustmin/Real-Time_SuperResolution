@@ -3,7 +3,7 @@
  - This code aims to convert FHD to 4K within 60 FPS on low-level GPUs.
  - In this version, FHD to 4K real-time (60 FPS) operation is possible on the nvida gtx 1060.
 
- - It does not require Tensor Cores (not cuda)for real-time operation.
+ - It does not require Tensor Cores (not cuda) for real-time operation.
  - Therefore, it will be possible to operate similarly on AMD GPU .
 
  - The current code is Python code without I/O optimization, so it will be faster if optimized.
