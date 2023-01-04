@@ -1,8 +1,23 @@
-~# Real-Time Super Resolution Sample Outputs #~ 
+# Real-Time Super Resolution Ver.2.0 # 
+ - The code for this can be shared later.
+ - This code aims to convert FHD to 4K within 60 FPS on low-level GPUs.
+ - In this version, FHD to 4K real-time (60 FPS) operation is possible on the nvida gtx 1060.
+
+ - It does not require Tensor Cores (not cuda)for real-time operation.
+ - Therefore, it will be possible to operate similarly on AMD GPU .
+
+ - The current code is Python code without I/O optimization, so it will be faster if optimized.
+
+# ToDO # 
+ - Testing on low-level AMD GPU.
+ - I/O optimization
+ - Create a filter version for your video player
+ - Denoising processing for special artifact
+ - Add Colorization
 
 ~- These are sample result images of real-time Super Resolutions.~ 
 
-~- Code is not shared.~ 
+~- Its code will not be shared.~ 
 
 ~- For real-time operation, you need a graphics card of at least RTX 2000 grade higher.~ 
 
