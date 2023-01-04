@@ -16,7 +16,7 @@
  - Add Colorization
 
 
-# del #
+# Real-Time Super Resolution (old) # 
 ~- These are sample result images of real-time Super Resolutions.~ 
 
 ~- Its code will not be shared.~ 
