@@ -12,9 +12,11 @@
  - Testing on low-level AMD GPU.
  - I/O optimization
  - Create a filter version for your video player
- - Denoising processing for special artifact
+ - Add Denoise 
  - Add Colorization
 
+
+# del #
 ~- These are sample result images of real-time Super Resolutions.~ 
 
 ~- Its code will not be shared.~ 
