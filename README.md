@@ -13,6 +13,7 @@
  - I/O optimization
  - Create a filter version for your video player 
  - Add Colorization
+
 ~- Add Denoise.~ 
 
 # Real-Time Super Resolution (old) # 
