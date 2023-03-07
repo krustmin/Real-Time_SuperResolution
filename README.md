@@ -11,10 +11,9 @@
 # ToDO # 
  - Testing on low-level AMD GPU.
  - I/O optimization
- - Create a filter version for your video player
-~- Add Denoise ~ 
+ - Create a filter version for your video player 
  - Add Colorization
-
+~- Add Denoise.~ 
 
 # Real-Time Super Resolution (old) # 
 ~- These are sample result images of real-time Super Resolutions.~ 
