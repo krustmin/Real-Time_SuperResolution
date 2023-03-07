@@ -12,7 +12,7 @@
  - Testing on low-level AMD GPU.
  - I/O optimization
  - Create a filter version for your video player
- - Add Denoise 
+~- Add Denoise 
  - Add Colorization
 
 
