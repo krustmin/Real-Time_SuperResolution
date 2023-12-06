@@ -21,7 +21,7 @@
 # Real-Time Super Resolution (Ver.1.0 + 2.0) (Complete) # 
 
 ~~ ?? ~~
-
+~~- This code aims to convert FHD to 4K within 60 FPS on low-level GPUs or low-level NPU. ~~
 ~~- This code aims to convert FHD to 4K within 60 FPS on low-level GPUs or low-level NPU. ~~
 
 ~~- Support various denoising. ~~
