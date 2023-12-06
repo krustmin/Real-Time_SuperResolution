@@ -4,7 +4,7 @@
  - It is not necessary to use TensorCore for real-time opration. (cuda is enough)
  - Model Compression has not done. (pruning, disillation or other technic)
  - Based on the profiler, inference speed for FHD to 4K is 5ms with rtx 3xxx seriese(float32) 
- - Support various denoising.
+ - Support various denoising. (optional)
 
 
 # ToDO #
