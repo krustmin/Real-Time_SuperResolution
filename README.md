@@ -1,5 +1,5 @@
 # Real-Time Super Resolution Ver.3.0 # 
- - This code aims to convert FHD to 4K within 60 FPS on low-level GPUs or low-level NPU.
+ - This code aims to convert FHD to 4K within 60 FPS on low-level GPUs.
  - In this version, FHD to 4K real-time (60 FPS) operation is possible on the nvida gtx 1060 without optimization(float32)
  - It is not necessary to use TensorCore for real-time opration. (cuda is enough)
  - Model Compression has not done. (pruning, disillation or other technic)
@@ -11,7 +11,7 @@
  - Support Real-Time Diffusion.
  - Support Colorization, Restoration
   
- - Testing on low-level AMD GPU.
+ - Testing on low-level AMD GPU or low-level NPU.
  - I/O optimization for my hobby inference code.
  - Support video player version filter.
  
