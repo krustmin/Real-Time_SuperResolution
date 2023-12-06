@@ -16,15 +16,11 @@
 
 ~- Add Denoise.~ 
 
-# Real-Time Super Resolution (old) # 
+# Real-Time Super Resolution Ver.2.0 (Complete) # 
 ~- These are sample result images of real-time Super Resolutions.~ 
-
 ~- Its code will not be shared.~ 
-
 ~- For real-time operation, you need a graphics card of at least RTX 2000 grade higher.~ 
-
 ~- This code aims to convert FHD to 4K within 60 FPS.~ 
-
 ~- ToDO Aiming for operation in the RTX 1000 grade.~ 
 
 ### Animations ###
