@@ -14,6 +14,7 @@
  - Testing on low-level AMD GPU or low-level NPU.
  - I/O optimization for my hobby inference code.
  - Support video player version filter.
+ - More reduce inference speed to below 5ms.
  
  - Replace existing images with ver.3.0 images.
 
